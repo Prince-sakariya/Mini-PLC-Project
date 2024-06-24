@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   4/26/2024  12:59:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             31        PTH        22.27inch (565.72mm)
+T2      28mil (0.711mm)                                           Round             5         PTH        0.98inch (24.92mm)
+T3      33mil (0.85mm)                                            Round             64        PTH        18.25inch (463.55mm)
+T4      35mil (0.9mm)                                             Round             64        PTH        25.22inch (640.69mm)
+T5      39mil (1mm)                                               Round             32        PTH        15.22inch (386.62mm)
+T6      40mil (1.02mm)                                            Round             62        PTH        18.66inch (474.09mm)
+T7      47mil (1.2mm)                                             Round             4         PTH        1.29inch (32.71mm)
+T8      51mil (1.3mm)                                             Round             16        PTH        8.47inch (215.21mm)
+T9      91mil (2.3mm)                                             Round             24        PTH        4.30inch (109.33mm)
+T10     118mil (3mm)                                              Round             6         PTH        23.01inch (584.37mm)
+T11     224mil (5.7mm)                                            Round             19        PTH        16.68inch (423.63mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              327
+
+Total Processing Time (hh:mm:ss) : 00:00:01
